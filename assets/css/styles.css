@@ -1,0 +1,13 @@
+i {
+  color: var(--bs-danger);
+}
+
+.nav-link:hover {
+  color: var(--bs-danger);
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+  border-color: #e9ecef #e9ecef #dee2e6;
+  isolation: isolate;
+}
+
